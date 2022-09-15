@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @lnzinn
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-lnzinn/lnzinn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- # Sobre mim
+-  👋 Olá meu nome é @lnzinn
+- :+1: Meu email de contato é luanbondansn@gmail.com
+- 👀 Eu estou interessado em aprender a programar novas línguas 
+- 🌱 Eu estou aprendendo a programar recentemente a linguagem de JavaScript e Scratch 
